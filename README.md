@@ -1,4 +1,4 @@
-this repo contains my first alx project with collaboration from Nnaemeka MacAnthony
+this repo contains my first alx project with collaboration from Nnaemeka MacAnthony Ezekpo.
 This project focuses on creating printf function. what is found in this project? A function that produces output according to a format.
 
 Handles the d and i conversion specifiers.
